@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+plotly
+ta
+feedparser
+beautifulsoup4
+lxml
